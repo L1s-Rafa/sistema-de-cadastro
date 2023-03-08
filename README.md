@@ -6,5 +6,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 
 **TESTE**
 ...
-mpm install 
+node aoo.js
 ...
